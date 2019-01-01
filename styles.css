@@ -5,7 +5,7 @@ body {
 }
 .content {
 grid-area: content;
-background: url(bcweb.png);
+background: white;
 }
 .sidebar{
     grid-area: sidebar;
