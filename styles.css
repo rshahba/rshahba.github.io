@@ -294,4 +294,9 @@ nav ul{
     opacity: 0.6;
     
 }
+    .ft {
+        color: white;
+        opacity: 0.4;
+        text-align: center;
+    }
 }
